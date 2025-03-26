@@ -17,5 +17,5 @@ def reverse_only_letters(s):
     return result
 
 input_str = "ab-cd$abc_xyz@"
-print("Output:", reverse_only_letters(input_str))
+print("Output -- ", reverse_only_letters(input_str))
 
