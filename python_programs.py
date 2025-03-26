@@ -18,5 +18,5 @@ def reverse_only_letters(s):
 
 input_str = "ab-cd$abc_xyz@"
 print(input_str)
-print("Output:", reverse_only_letters(input_str))
+print("Output--:", reverse_only_letters(input_str))
 
